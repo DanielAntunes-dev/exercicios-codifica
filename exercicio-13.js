@@ -20,5 +20,5 @@ function calcularTabuada(N) {
     }
 }
 
-let valorFixo = 10; 
+let valorFixo = 5; 
 calcularTabuada(valorFixo);
